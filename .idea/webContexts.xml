@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/news/web/index.jsp" value="file://$PROJECT_DIR$/news/web" />
+        <entry key="file://$PROJECT_DIR$/news/web/newspages/admin.jsp" value="file://$PROJECT_DIR$/news/web/newspages" />
+        <entry key="file://$PROJECT_DIR$/news/web/register.jsp" value="file://$PROJECT_DIR$/news/web" />
+        <entry key="file://$PROJECT_DIR$/news/web/util/topic_ control.jsp" value="file://$PROJECT_DIR$/news/web/util" />
+        <entry key="file://$PROJECT_DIR$/qqZone/web/jsp/login.jsp" value="file://$PROJECT_DIR$/qqZone/web/jsp" />
+        <entry key="file://$PROJECT_DIR$/qqZone/web/jsp/messageother.jsp" value="file://$PROJECT_DIR$/qqZone/web/jsp" />
+        <entry key="file://$PROJECT_DIR$/qqZone/web/jsp/success.jsp" value="file://$PROJECT_DIR$/qqZone/web/jsp" />
+      </map>
+    </option>
+  </component>
+</project>

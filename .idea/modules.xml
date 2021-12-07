@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ysy/liyu.iml" filepath="$PROJECT_DIR$/ysy/liyu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news/news.iml" filepath="$PROJECT_DIR$/news/news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsDemo/newsDemo.iml" filepath="$PROJECT_DIR$/newsDemo/newsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqZone/qqZone.iml" filepath="$PROJECT_DIR$/qqZone/qqZone.iml" />
+    </modules>
+  </component>
+</project>
